@@ -2,7 +2,7 @@
 
 
 ## Sobre
-A ONE em parceria com a Alura disponibilizaram um curso de programação e durante as aulas de Data Science, foi desenvolvido um projeto que realiza a análise de análise de Evasão de Clientes em que foi simulado a nossa contratação como assistente de análise de dados na Telecom X, atuando no projeto de "Churn de Clientes" O objetivo é coletar, tratar e analisar os dados do arquivo em json, utilizando Python e suas bibliotecas para extraição de insights.
+A ONE em parceria com a Alura disponibilizaram um curso de programação e durante as aulas de Data Science, foi desenvolvido um projeto que realiza a análise de análise de Evasão de Clientes em que foi simulado a nossa contratação como assistente de análise de dados na Telecom X, atuando no projeto de "Churn de Clientes" O objetivo é coletar, tratar e analisar os dados do arquivo em json, utilizando Python e suas bibliotecas para extração de insights.
 
 ## Linguagens 
 
